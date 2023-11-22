@@ -1,0 +1,690 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,300;6..12,400;6..12,500;6..12,700&family=Open+Sans:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* ====================== nav start====================== */
+.container {
+  max-width: 1410px;
+  margin: 0 auto;
+}
+.nav-item {
+  color: #29313d;
+
+  font-family: Open Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.down {
+  margin-left: 8px;
+}
+.contact {
+  border-radius: 18px;
+  background: #ff5538;
+  color: #fff;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  padding: 14px 28px;
+  border: none;
+}
+nav {
+  position: absolute !important;
+  width: 100%;
+  z-index: 999;
+}
+/* ====================== nav end ====================== */
+/* ====================== banner start ====================== */
+#banner {
+  background-color: rgba(255, 220, 216, 40%);
+  padding-top: 293px;
+  padding-bottom: 297px;
+  position: relative;
+}
+.head h1 {
+  color: #29313d;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%; /* 83.2px */
+  text-transform: capitalize;
+  width: 771px;
+}
+.head p {
+  color: #29313d;
+  text-align: center;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  width: 547px;
+  margin-top: 24px !important;
+  margin-bottom: 44px !important;
+}
+.head .us {
+  color: #fff;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  border-radius: 18px;
+  background: #ff5538;
+  border: none;
+  padding: 14px 28px;
+  margin-left: 440px;
+}
+.head .show {
+  color: #ff5538;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  padding: 14px 28px;
+  border-radius: 18px;
+  border: 1px solid #ff5538;
+  margin-left: 10px;
+}
+.group {
+  position: absolute;
+  top: 0;
+  left: -74px;
+}
+.pink-c {
+  position: absolute;
+  top: 110px;
+  left: 130px;
+}
+.purple-c {
+  position: absolute;
+  top: 300px;
+  right: 200px;
+}
+.ring {
+  width: 122px;
+  height: 122px;
+  border-radius: 50%;
+  border: 2px solid #ffabba;
+  position: relative;
+  left: 774px;
+  top: -165px;
+}
+.ring-p {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #ffabba;
+  background-color: #ffabba;
+  position: absolute;
+  left: 0;
+  top: 82px;
+}
+.vector {
+  position: absolute;
+  top: 300px;
+  right: 550px;
+}
+.snal {
+  position: absolute;
+  top: 250px;
+  left: -80px;
+}
+.roll {
+  width: 238.562px;
+  height: 238.599px;
+  border-radius: 50%;
+  border: 1px solid #ffdcd8;
+  position: absolute;
+  top: 640px;
+  left: 80px;
+}
+.element {
+  position: absolute;
+  top: 950px;
+  left: 0;
+}
+.frme {
+  position: absolute;
+  right: 0;
+  bottom: -145px;
+}
+.round {
+  position: absolute;
+  right: 0;
+  top: 230px;
+}
+
+/* ====================== banner end ====================== */
+/* ====================== card start ====================== */
+.item {
+  width: 100%;
+  background: #fff;
+  box-shadow: 0px 44px 40px 0px rgba(0, 0, 0, 0.02);
+  padding-bottom: 40px;
+  transform: translateY(-150px);
+}
+.item img {
+  margin-left: 30px;
+  margin-top: 40px;
+  margin-bottom: 34px;
+}
+.item h2 {
+  color: #29313d;
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 44.8px */
+  text-transform: capitalize;
+  margin-left: 20px;
+}
+.item p {
+  color: #29313d;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  width: 374px;
+  margin-left: 30px;
+}
+/* ====================== card end ====================== */
+/* ====================== contect start ====================== */
+#connect .title h3 {
+  color: #ff5538;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%; /* 28px */
+  text-transform: capitalize;
+}
+#connect .title h1 {
+  color: #29313d;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 67.2px */
+  text-transform: capitalize;
+  width: 449px;
+  margin-bottom: 10px;
+}
+.image .left {
+  width: 945px;
+}
+.image .right {
+  width: 1080px;
+  background-color: #fbf3f0;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.image {
+  display: flex;
+  position: relative;
+}
+.image .left img {
+  position: absolute;
+  top: 80px;
+  left: -121px;
+}
+.image .right h2 {
+  color: #29313d;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 50.4px */
+  text-transform: capitalize;
+  width: 570px;
+  margin-left: 185px;
+}
+.image .right p {
+  color: #29313d;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  width: 501px;
+  margin-left: 185px;
+}
+.image .right .button {
+  border-radius: 18px;
+  background: #ff5538;
+  padding: 14px 28px;
+  border: none;
+  color: #fff;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  margin-left: 185px;
+  margin-top: 62px;
+}
+#connect {
+  position: relative;
+}
+.fill {
+  position: absolute;
+  top: 153px;
+  left: 460px;
+}
+.fr {
+  position: absolute;
+  right: 0;
+  bottom: -234px;
+}
+.gr {
+  position: absolute;
+  top: 50px;
+  right: 70px;
+}
+/* ====================== contect end ====================== */
+/* ======================  hundred start ====================== */
+#hundred .head {
+  display: flex;
+  justify-content: space-between;
+}
+.head .head-left .five {
+  color: #ff5538;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%; /* 28px */
+  text-transform: capitalize;
+  margin-top: 120px;
+}
+.head .head-left .two {
+  color: #29313d;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 67.2px */
+  text-transform: capitalize;
+  width: 693px;
+  margin-bottom: 60px;
+}
+.head .head-right .view {
+  border-radius: 18px;
+  border: 1px solid #ff5538;
+  padding: 14px 28px;
+  color: #ff5538;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  margin-top: 193px;
+}
+#hundred .card-item img {
+  width: 100%;
+  height: 332px;
+}
+#hundred .cre {
+  margin-top: 40px;
+}
+#hundred .mob {
+  color: #29313d;
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 39.2px */
+  text-transform: capitalize;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+#hundred p {
+  color: #ff5538;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 100%; /* 18px */
+  text-transform: capitalize;
+  margin-left: 30px;
+}
+#hundred .eco {
+  color: #29313d;
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 39.2px */
+  text-transform: capitalize;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+#hundred .text {
+  transform: translateY(-10px);
+}
+#hundred .read {
+  transform: translateY(-10px);
+}
+#hundred {
+  position: relative;
+  overflow: hidden;
+}
+#hundred .md {
+  position: absolute;
+  left: -12;
+  top: -224px;
+}
+
+/* ====================== hundred end ====================== */
+/* ====================== off start ====================== */
+#off .off-ele {
+  background-color: #fff;
+  padding: 74px 60px;
+  text-align: center;
+}
+#off .off-ele h1 {
+  color: #29313d;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 56px */
+  text-transform: capitalize;
+}
+#off .off-ele p {
+  color: #29313d;
+  text-align: center;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%; /* 18px */
+  text-transform: capitalize;
+}
+#off {
+  background-color: rgb(253, 249, 248);
+  padding: 120px 0;
+  position: relative;
+}
+#off .ins {
+  margin-top: 30px;
+}
+#off .itt h1 {
+  color: #29313d;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 67.2px */
+  text-transform: capitalize;
+  width: 570px;
+  margin-left: 100px;
+}
+#off .itt p {
+  color: #29313d;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  width: 550px;
+  margin-left: 100px;
+  margin-bottom: 40px;
+}
+#off .itt .more {
+  border-radius: 18px;
+  background: #ff5538;
+  color: #fff;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  border: none;
+  margin-left: 100px;
+  padding: 14px 28px;
+}
+#off .moye {
+  position: absolute;
+  right: 0;
+  bottom: -60px;
+}
+
+/* ====================== off end ====================== */
+/* ====================== Trusted start ====================== */
+#trusted h1 {
+  color: #29313d;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 67.2px */
+  text-transform: capitalize;
+  width: 849px;
+  margin-top: 120px !important;
+  margin-bottom: 60px !important;
+}
+#trusted .logo {
+  background: #fdf9f8;
+  padding: 48px 41px;
+}
+#trusted {
+  margin-bottom: 120px;
+}
+
+/* ====================== Trusted end ====================== */
+/* ======================customer start ====================== */
+#customer .says h1 {
+  color: #29313d;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 67.2px */
+  text-transform: capitalize;
+}
+#customer .says p {
+  color: #29313d;
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 36px */
+  text-transform: capitalize;
+  width: 690px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+#customer .says .little {
+  display: flex;
+  gap: 28px;
+  margin-top: 60px;
+}
+#customer .says .jon {
+  display: flex;
+  gap: 40px;
+}
+#customer .says .jon h3 {
+  color: #29313d;
+  font-family: Open Sans;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 180%; /* 64.8px */
+  text-transform: capitalize;
+}
+#customer {
+  background-color: #fdf9f8;
+  padding-top: 139px;
+  padding-bottom: 138px;
+  position: relative;
+}
+.carousel-control-prev {
+  width: 64px;
+  height: 64px;
+  border-radius: 10px;
+  background: #ffddd7;
+  position: absolute;
+  top: 598px;
+  left: 291px;
+}
+.carousel-control-next {
+  width: 64px;
+  height: 64px;
+  border-radius: 10px;
+  background: #ff5538;
+  position: absolute;
+  top: 598px;
+  right: 1058px;
+}
+
+/* ====================== customer end ====================== */
+/* ======================project start ====================== */
+#project .let {
+  display: flex;
+  justify-content: space-between;
+}
+#project .let .talk h5 {
+  color: #29313d;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%; /* 28px */
+  text-transform: capitalize;
+}
+#project .let .talk h1 {
+  color: #29313d;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 67.2px */
+  text-transform: capitalize;
+}
+#project .let .aa .aaa {
+  border-radius: 18px;
+  background: #ff5538;
+  border: none;
+  padding: 14px 28px;
+  color: #fdf9f8;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 200%; /* 36px */
+  text-transform: capitalize;
+  margin-top: 33px;
+}
+#project p {
+  color: #29313d;
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 36px */
+  text-transform: capitalize;
+}
+#project {
+  background-color: #ffd7c8;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+  overflow-x: hidden;
+}
+#project .pp {
+  position: absolute;
+  top: 0;
+  right: -20px;
+}
+/* ======================project  end ====================== */
+/* ======================footer start ====================== */
+#foot {
+  margin-top: 140px;
+}
+#foot .ff .fff {
+  margin-bottom: 44px;
+}
+#foot .ff p {
+  color: #29313d;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 32.4px */
+  text-transform: capitalize;
+  width: 449px;
+  opacity: 0.9;
+}
+#foot ul h1 {
+  color: #29313d;
+  font-family: Open Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 33.6px */
+  text-transform: capitalize;
+}
+#foot ul {
+  list-style: none;
+}
+#foot ul li {
+  text-transform: capitalize;
+  margin-top: 40px;
+}
+#foot .last {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 80px;
+  margin-bottom: 57px;
+}
+#foot .last .ss {
+  display: flex;
+  gap: 60px;
+}
+#foot .last .ll h5 {
+  color: #29313d;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 32.4px */
+  text-transform: capitalize;
+  opacity: 0.9;
+}
+#foot .last .ss h3 {
+  color: #29313d;
+  font-family: Nunito;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 32.4px */
+  text-transform: capitalize;
+  opacity: 0.9;
+}
+
+/* ======================footer  end ====================== */

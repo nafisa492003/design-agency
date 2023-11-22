@@ -1,0 +1,782 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  /* ====================== banner start================== */
+  .pink-c {
+    display: none;
+  }
+  .snal {
+    display: none;
+  }
+  .purple-c {
+    display: none;
+  }
+  .round {
+    display: none;
+  }
+  .roll {
+    display: none;
+  }
+  .ring {
+    display: none;
+  }
+  .head h1 {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 100%;
+    width: auto;
+  }
+
+  .navbar-nav {
+    padding-left: 68px;
+    background-color: #fff;
+  }
+  .head .us {
+    margin-left: 34px;
+    padding: 6px 14px;
+  }
+  .head {
+    margin-top: -122px;
+  }
+  .head .show {
+    padding: 6px 14px;
+  }
+  .contact {
+    padding: 7px 14px;
+    margin-left: 51px;
+  }
+  .head p {
+    font-size: 14px;
+    width: auto;
+  }
+  #banner {
+    padding-top: 269px;
+    padding-bottom: 93px;
+  }
+  /* ====================== banner end================== */
+  /* ====================== card start================== */
+  .item {
+    transform: translateY(0);
+    margin-bottom: 20px;
+  }
+  .item img {
+    margin-left: 96px;
+  }
+  .item h2 {
+    margin-left: 46px;
+  }
+  .item p {
+    width: auto;
+  }
+  .element {
+    display: none;
+  }
+
+  /* ====================== card end================== */
+  /* ====================== connect start================== */
+  .gr {
+    display: none;
+  }
+  .fr {
+    display: none;
+  }
+  .fill {
+    display: none;
+  }
+  #connect .title h1 {
+    width: auto;
+  }
+  .image {
+    display: block;
+  }
+  .image .left {
+    width: auto;
+  }
+  .image .left img {
+    position: relative;
+    left: 0;
+    width: 100%;
+  }
+  .image .right h2 {
+    width: auto;
+    margin-left: 11px;
+    font-size: 20px;
+  }
+  .image .right p {
+    width: auto;
+    margin-left: 20px;
+  }
+  .image .right .button {
+    margin-left: 75px;
+  }
+  #hundred .md {
+    display: none;
+  }
+  .head .head-left .two {
+    font-size: 24px;
+    width: auto;
+  }
+  .head .head-right .view {
+    padding: 5px 20px;
+    font-size: 12px;
+  }
+  .image .right {
+    width: auto;
+    background-color: #fbf3f0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  /* ====================== off start ================== */
+  .off-ele {
+    margin-bottom: 15px;
+  }
+  .off-ele {
+    margin-bottom: 15px;
+  }
+  #off .moye {
+    display: none;
+  }
+  #off .itt h1 {
+    font-size: 30px;
+    width: auto;
+    margin-left: 15px;
+  }
+  #off .itt p {
+    font-size: 14px;
+    width: auto;
+    margin-left: 1px;
+  }
+  #off .itt .more {
+    margin-left: 70px;
+  }
+  /* ======================  off end ================== */
+  /* ====================== trusted start ================== */
+  #trusted h1 {
+    font-size: 22px;
+    width: auto;
+  }
+  #trusted .logo {
+    margin-bottom: 15px;
+  }
+  /* ======================  trusted end ================== */
+  /* ======================  customer start ================== */
+  #customer .says h1 {
+    font-size: 31px;
+  }
+  #customer .says .little {
+    display: block;
+  }
+  #customer .says p {
+    width: auto;
+  }
+  .carousel-control-prev {
+    width: 50px;
+    height: 50px;
+    top: 824px;
+    left: 177px;
+  }
+  #customer .says .jon h3 {
+    font-size: 30px;
+  }
+  .carousel-control-next {
+    width: 50px;
+    height: 50px;
+    top: 824px;
+    right: 17px;
+  }
+  /* ======================  customer end ================== */
+  /* ======================project start ================== */
+  #project .pp {
+    display: none;
+  }
+  #project .let .aa .aaa {
+    padding: 7px 7px;
+  }
+  /* ====================== project end ================== */
+  /* ====================== footer start ================== */
+  #foot .ff p {
+    width: auto;
+  }
+  /* ======================footer end ================== */
+}
+@media (min-width: 576px) and (max-width: 768px) {
+  /* ====================== banner start================== */
+  .pink-c {
+    display: none;
+  }
+  .snal {
+    display: none;
+  }
+  .purple-c {
+    display: none;
+  }
+  .round {
+    display: none;
+  }
+  .roll {
+    display: none;
+  }
+  .ring {
+    display: none;
+  }
+  .head h1 {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 100%;
+    width: auto;
+  }
+  .navbar-nav {
+    padding-left: 68px;
+    background-color: #fff;
+  }
+  .head .us {
+    margin-left: 133px;
+    padding: 6px 14px;
+  }
+  .head {
+    margin-top: -122px;
+  }
+  .head .show {
+    padding: 6px 14px;
+  }
+  .contact {
+    padding: 7px 14px;
+    margin-left: 51px;
+  }
+  .head p {
+    font-size: 14px;
+    width: auto;
+  }
+  #banner {
+    padding-top: 269px;
+    padding-bottom: 93px;
+  }
+  /* ====================== banner end================== */
+  /* ====================== card start================== */
+  .item {
+    transform: translateY(0);
+    margin-bottom: 20px;
+  }
+  .item img {
+    margin-left: 96px;
+  }
+  .item h2 {
+    margin-left: 46px;
+  }
+  .item p {
+    width: auto;
+  }
+  .element {
+    display: none;
+  }
+
+  /* ====================== card end================== */
+  /* ====================== connect start================== */
+  .gr {
+    display: none;
+  }
+  .fr {
+    display: none;
+  }
+  .fill {
+    display: none;
+  }
+  #connect .title h1 {
+    width: auto;
+  }
+  .image {
+    display: block;
+  }
+  .image .left {
+    width: auto;
+  }
+  .image .left img {
+    position: relative;
+    left: 0;
+    width: 100%;
+  }
+  .image .right h2 {
+    width: auto;
+    margin-left: 35px;
+  }
+  .image .right p {
+    width: auto;
+    margin-left: 20px;
+  }
+  .image .right .button {
+    margin-left: 75px;
+  }
+  #hundred .md {
+    display: none;
+  }
+  .head .head-left .two {
+    font-size: 24px;
+    width: auto;
+  }
+  .head .head-right .view {
+    padding: 5px 20px;
+    font-size: 12px;
+  }
+  .image .right {
+    width: auto;
+  }
+  /* ====================== off start ================== */
+  .off-ele {
+    margin-bottom: 15px;
+  }
+  .off-ele {
+    margin-bottom: 15px;
+  }
+  #off .moye {
+    display: none;
+  }
+  #off .itt h1 {
+    font-size: 30px;
+    width: auto;
+    margin-left: 15px;
+  }
+  #off .itt p {
+    font-size: 14px;
+    width: auto;
+    margin-left: 1px;
+  }
+  #off .itt .more {
+    margin-left: 70px;
+  }
+  /* ======================  off end ================== */
+  /* ====================== trusted start ================== */
+  #trusted h1 {
+    font-size: 22px;
+    width: auto;
+  }
+  #trusted .logo {
+    margin-bottom: 15px;
+  }
+  /* ======================  trusted end ================== */
+  /* ======================  customer start ================== */
+  #customer .says h1 {
+    font-size: 31px;
+  }
+  #customer .says .little {
+    display: block;
+  }
+  #customer .says p {
+    width: auto;
+  }
+  .carousel-control-prev {
+    width: 50px;
+    height: 50px;
+    top: 614px;
+    left: 177px;
+  }
+  #customer .says .jon h3 {
+    font-size: 30px;
+  }
+  .carousel-control-next {
+    width: 50px;
+    height: 50px;
+    top: 615px;
+    right: 274px;
+  }
+  /* ======================  customer end ================== */
+  /* ======================project start ================== */
+  #project .pp {
+    display: none;
+  }
+  #project .let .aa .aaa {
+    padding: 7px 7px;
+  }
+  /* ====================== project end ================== */
+  /* ====================== footer start ================== */
+  #foot .ff p {
+    width: auto;
+  }
+  /* ======================footer end ================== */
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  /* ====================== banner start================== */
+  .pink-c {
+    display: none;
+  }
+  .snal {
+    display: none;
+  }
+  .purple-c {
+    display: none;
+  }
+  .round {
+    display: none;
+  }
+  .roll {
+    display: none;
+  }
+  .ring {
+    display: none;
+  }
+  .head h1 {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 100%;
+    width: auto;
+  }
+
+  .navbar-nav {
+    padding-left: 68px;
+    background-color: #fff;
+  }
+  .head .us {
+    margin-left: 133px;
+    padding: 6px 14px;
+  }
+  .head {
+    margin-top: -122px;
+  }
+  .head .show {
+    padding: 6px 14px;
+  }
+  .contact {
+    padding: 7px 14px;
+    margin-left: 51px;
+  }
+  .head p {
+    font-size: 14px;
+    width: auto;
+  }
+  #banner {
+    padding-top: 269px;
+    padding-bottom: 93px;
+  }
+  /* ====================== banner end================== */
+  /* ====================== card start================== */
+  .item {
+    transform: translateY(0);
+    margin-bottom: 20px;
+  }
+  .item img {
+    margin-left: 96px;
+  }
+  .item h2 {
+    margin-left: 46px;
+  }
+  .item p {
+    width: auto;
+  }
+  .element {
+    display: none;
+  }
+
+  /* ====================== card end================== */
+  /* ====================== connect start================== */
+  .gr {
+    display: none;
+  }
+  .fr {
+    display: none;
+  }
+  .fill {
+    display: none;
+  }
+  #connect .title h1 {
+    width: auto;
+  }
+  .image {
+    display: block;
+  }
+  .image .left {
+    width: auto;
+  }
+  .image .left img {
+    position: relative;
+    left: 0;
+    width: 100%;
+  }
+  .image .right h2 {
+    width: auto;
+    margin-left: 35px;
+  }
+  .image .right p {
+    width: auto;
+    margin-left: 20px;
+  }
+  .image .right .button {
+    margin-left: 75px;
+  }
+  #hundred .md {
+    display: none;
+  }
+  .head .head-left .two {
+    font-size: 24px;
+    width: auto;
+  }
+  .head .head-right .view {
+    padding: 5px 20px;
+    font-size: 12px;
+  }
+  .image .right {
+    width: auto;
+  }
+  /* ====================== off start ================== */
+  .off-ele {
+    margin-bottom: 15px;
+  }
+  .off-ele {
+    margin-bottom: 15px;
+  }
+  #off .moye {
+    display: none;
+  }
+  #off .itt h1 {
+    font-size: 30px;
+    width: auto;
+    margin-left: 15px;
+  }
+  #off .itt p {
+    font-size: 14px;
+    width: auto;
+    margin-left: 1px;
+  }
+  #off .itt .more {
+    margin-left: 70px;
+  }
+  /* ======================  off end ================== */
+  /* ====================== trusted start ================== */
+  #trusted h1 {
+    font-size: 22px;
+    width: auto;
+  }
+  #trusted .logo {
+    margin-bottom: 15px;
+  }
+  /* ======================  trusted end ================== */
+  /* ======================  customer start ================== */
+  #customer .says h1 {
+    font-size: 31px;
+  }
+  #customer .says .little {
+    display: block;
+  }
+  #customer .says p {
+    width: auto;
+  }
+  .carousel-control-prev {
+    width: 50px;
+    height: 50px;
+    top: 576px;
+    left: 177px;
+  }
+  #customer .says .jon h3 {
+    font-size: 30px;
+  }
+  .carousel-control-next {
+    width: 50px;
+    height: 50px;
+    top: 577px;
+    right: 448px;
+  }
+  /* ======================  customer end ================== */
+  /* ======================project start ================== */
+  #project .pp {
+    display: none;
+  }
+  #project .let .aa .aaa {
+    padding: 7px 7px;
+  }
+  /* ====================== project end ================== */
+  /* ====================== footer start ================== */
+  #foot .ff p {
+    width: auto;
+  }
+  /* ======================footer end ================== */
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  /* ====================== banner start================== */
+  .pink-c {
+    display: none;
+  }
+  .snal {
+    display: none;
+  }
+  .purple-c {
+    display: none;
+  }
+  .round {
+    display: none;
+  }
+  .roll {
+    display: none;
+  }
+  .ring {
+    display: none;
+  }
+  .head h1 {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 100%;
+    width: auto;
+  }
+  .navbar-nav {
+    padding-left: 68px;
+    background-color: #fff;
+  }
+  .head .us {
+    margin-left: 133px;
+    padding: 6px 14px;
+  }
+  .head {
+    margin-top: -122px;
+  }
+  .head .show {
+    padding: 6px 14px;
+  }
+  .contact {
+    padding: 7px 14px;
+    margin-left: 51px;
+  }
+  .head p {
+    font-size: 14px;
+    width: auto;
+  }
+  #banner {
+    padding-top: 269px;
+    padding-bottom: 93px;
+  }
+  /* ====================== banner end================== */
+  /* ====================== card start================== */
+  .item {
+    transform: translateY(0);
+    margin-bottom: 20px;
+  }
+  .item img {
+    margin-left: 96px;
+  }
+  .item h2 {
+    margin-left: 46px;
+  }
+  .item p {
+    width: auto;
+  }
+  .element {
+    display: none;
+  }
+
+  /* ====================== card end================== */
+  /* ====================== connect start================== */
+  .gr {
+    display: none;
+  }
+  .fr {
+    display: none;
+  }
+  .fill {
+    display: none;
+  }
+  #connect .title h1 {
+    width: auto;
+  }
+  .image {
+    display: block;
+  }
+  .image .left {
+    width: auto;
+  }
+  .image .left img {
+    position: relative;
+    left: 0;
+    width: 100%;
+  }
+  .image .right h2 {
+    width: auto;
+    margin-left: 35px;
+  }
+  .image .right p {
+    width: auto;
+    margin-left: 20px;
+  }
+  .image .right .button {
+    margin-left: 75px;
+  }
+  #hundred .md {
+    display: none;
+  }
+  .head .head-left .two {
+    font-size: 24px;
+    width: auto;
+  }
+  .head .head-right .view {
+    padding: 5px 20px;
+    font-size: 12px;
+  }
+  .image .right {
+    width: auto;
+  }
+  /* ====================== off start ================== */
+  .off-ele {
+    margin-bottom: 15px;
+  }
+  .off-ele {
+    margin-bottom: 15px;
+  }
+  #off .moye {
+    display: none;
+  }
+  #off .itt h1 {
+    font-size: 30px;
+    width: auto;
+    margin-left: 15px;
+  }
+  #off .itt p {
+    font-size: 14px;
+    width: auto;
+    margin-left: 1px;
+  }
+  #off .itt .more {
+    margin-left: 70px;
+  }
+  /* ======================  off end ================== */
+  /* ====================== trusted start ================== */
+  #trusted h1 {
+    font-size: 22px;
+    width: auto;
+  }
+  #trusted .logo {
+    margin-bottom: 15px;
+  }
+  /* ======================  trusted end ================== */
+  /* ======================  customer start ================== */
+  #customer .says h1 {
+    font-size: 31px;
+  }
+  #customer .says .little {
+    display: block;
+  }
+  #customer .says p {
+    width: auto;
+  }
+  .carousel-control-prev {
+    width: 50px;
+    height: 50px;
+    top: 576px;
+    left: 177px;
+  }
+  #customer .says .jon h3 {
+    font-size: 30px;
+  }
+  .carousel-control-next {
+    width: 50px;
+    height: 50px;
+    top: 577px;
+    right: 448px;
+  }
+  /* ======================  customer end ================== */
+  /* ======================project start ================== */
+  #project .pp {
+    display: none;
+  }
+  #project .let .aa .aaa {
+    padding: 7px 7px;
+  }
+  /* ====================== project end ================== */
+  /* ====================== footer start ================== */
+  #foot .ff p {
+    width: auto;
+  }
+  /* ======================footer end ================== */
+}
